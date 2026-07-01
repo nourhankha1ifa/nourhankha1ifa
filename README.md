@@ -32,16 +32,6 @@ Outside of data, I enjoy designing dashboards in **Figma**, learning front-end d
 
 ---
 
-# Currently Working On
-
-- Building interactive Power BI dashboards
-- Practicing SQL for data analysis
-- Improving my Python skills for analytics and machine learning
-- Developing my personal portfolio and GitHub projects
-- Preparing for Data Analyst & Data Science opportunities
-
----
-
 # Technical Skills
 
 ## Data Analysis & Visualization
@@ -80,9 +70,8 @@ Outside of data, I enjoy designing dashboards in **Figma**, learning front-end d
 
 # Featured Projects
 
-- **Exoplanets Dashboard** Interactive Power BI dashboard exploring exoplanet discoveries.
-- Data Analysis projects using SQL & Python.
-- Business Intelligence dashboards.
+- **Exoplanets Dashboard** exploring exoplanet discoveries.
+- **Retail's Customer Dashboard** designed to understand customer behavior, sales trends, and payment methods.
 
 ---
 
